@@ -40,7 +40,10 @@ else
 end
 ```
 
-Loops are not supported in scripts and there are currently no keywords associated with loops.
-
 Parameters must be encapsulted in **(** **)** parenthesis and be seperated with a space to define each parameter.
+
+```
+print("Hello")
+pow(0 1)
+```
 
