@@ -52,6 +52,9 @@ print("Hello")        # > Hello
 print(pow(5 2))       # > 25
 ```
 
-
-
 ##Special Notes
+
+In the script there are maximums to the amount of each type of variable that can be introduced:
+
+* 500 String variables
+* 500 Integer variables
