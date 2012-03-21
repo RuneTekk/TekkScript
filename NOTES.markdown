@@ -43,7 +43,7 @@ end
 
 Parameters must be encapsulted in **(** **)** parenthesis and be seperated with a space to define each parameter, 
 Strings must be encapulsated in **"** **"** quotations to be correctly identified as a **String** object. The compiler
-supports base 16 prefix numbers with the **0x(Number)** prefix.
+supports base 16 prefix numbers with the **0x** prefix.
 
 ###Example with methods 
 
