@@ -42,11 +42,13 @@ end
 ```
 
 Parameters must be encapsulted in **(** **)** parenthesis and be seperated with a space to define each parameter, 
-Strings must be encapulsated in **"** **"** quotations to be correctly identified as a **String** object.
+Strings must be encapulsated in **"** **"** quotations to be correctly identified as a **String** object. The compiler
+supports base 16 prefix numbers with the **0x(Number)** prefix.
+
+###Example with methods 
 
 ```
 print("Hello")        # > Hello
 print(pow(5 2))       # > 25
 ```
 
-##Special Notes
