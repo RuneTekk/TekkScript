@@ -14,11 +14,15 @@ a **String** or an **Integer** and respectedly come from their own stack.
 
 ##Script Syntax
 
+###Example of an if block
+
 ```
 if a do
     #Block A
 end
 ```
+
+###Example of an if-else block
 
 ```
 if a do
