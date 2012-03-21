@@ -31,3 +31,15 @@ else
     #Block B
 end
 ```
+
+###Example of an if-elseif-else block
+
+```
+if a do
+    #Block A
+elsif
+    #Block B
+else
+    #Block C
+end
+```
