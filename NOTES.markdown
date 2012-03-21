@@ -3,9 +3,9 @@
 
 ###**Table of Contents**
 
-* Stack Structure
-* Script Syntax
-* Special Notes
+* ####Stack Structure
+* ####Script Syntax
+* ####Special Notes
 
 ##Stack Structure
 
