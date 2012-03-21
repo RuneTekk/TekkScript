@@ -16,7 +16,14 @@ a **String** or an **Integer** and respectedly come from their own stack.
 
 ```
 if a do
-    #Block
+    #Block A
+end
+```
+
+```
+if a do
+    #Block A
 else
+    #Block B
 end
 ```
