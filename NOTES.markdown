@@ -1,4 +1,4 @@
 #Structure
 ***
 
-* Stack Structure
+##Stack Structure
