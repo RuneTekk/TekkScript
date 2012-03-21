@@ -41,8 +41,8 @@ else
 end
 ```
 
-Parameters must be encapsulted in ###**(** ###**)** parenthesis and be seperated with a space to define each parameter, 
-Strings must be encapulsated in ###**"** ###**"** quotations.
+Parameters must be encapsulted in **(** **)** parenthesis and be seperated with a space to define each parameter, 
+Strings must be encapulsated in **"** **"** quotations to be correctly identified as a **String** object.
 
 ```
 print("Hello")        # > Hello
