@@ -1,7 +1,7 @@
 #Structure
 ***
 
-Table of Contents
+''Table of Contents''
 
 * Stack Structure
 
