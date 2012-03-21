@@ -5,6 +5,7 @@
 
 * Stack Structure
 * Script Syntax
+* Special Notes
 
 ##Stack Structure
 
@@ -40,10 +41,14 @@ else
 end
 ```
 
-Parameters must be encapsulted in **(** **)** parenthesis and be seperated with a space to define each parameter.
+Parameters must be encapsulted in **(** **)** parenthesis and be seperated with a space to define each parameter, 
+Strings must be encapulsated in **"** **"** quotations.
 
 ```
 print("Hello")        # > Hello
 print(pow(5 2))       # > 25
 ```
 
+
+
+##Special Notes
