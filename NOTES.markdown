@@ -18,36 +18,29 @@ The syntax for logic in the script is very lua like the syntax of Lua where logi
 logic keywords such as **if**, **elseif** or **else**. Using the **do** keyword is only required with **if**
 and **elsif** to mark the end of the comparative statement.
 
-Loops are not supported in scripts and there are currently no keywords associated with loops.
-
-Parameters must be encapsulted in **(** **)** parenthesis and be seperated with a space to define each parameter.
-
-###Example of an if block
+###Examples of blocks
 
 ```
 if a do
     #Block A
 end
-```
 
-###Example of an if-else block
-
-```
 if a do
     #Block A
 else 
     #Block B
 end
-```
 
-###Example of an if-elseif-else block
-
-```
 if a do
     #Block A
-elsif b do
+elseif b do
     #Block B
 else
     #Block C
 end
 ```
+
+Loops are not supported in scripts and there are currently no keywords associated with loops.
+
+Parameters must be encapsulted in **(** **)** parenthesis and be seperated with a space to define each parameter.
+
