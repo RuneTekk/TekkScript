@@ -58,3 +58,5 @@ In the script there are maximums to the amount of each type of variable that can
 
 * 500 String variables
 * 500 Integer variables
+
+Base 16 support is not active yet.
