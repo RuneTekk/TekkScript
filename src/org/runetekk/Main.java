@@ -11,5 +11,7 @@ public final class Main {
      * The starting point for the program.
      * @param args The command line arguments.
      */
-    public static void main(String[] args) {} 
+    public static void main(String[] args) {
+        
+    } 
 }
