@@ -49,6 +49,4 @@ print("Hello")        # > Hello
 print(pow(5 2))       # > 25
 ```
 
-
-
 ##Special Notes
