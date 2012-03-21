@@ -15,8 +15,8 @@ a **String** or an **Integer** and respectedly come from their own stack.
 ##Script Syntax
 
 The syntax for logic in the script is very lua like the syntax of Lua where logic blocks are clearly defined with a
-logic keywords such as ***if***, ***elsif*** or ***else***. Using the ***do*** keyword is only required with ***if***
-and ***elsif*** to mark the end of the comparative statement.
+logic keywords such as **if**, **elsif** or **else**. Using the **do** keyword is only required with **if**
+and **elsif** to mark the end of the comparative statement.
 
 ###Example of an if block
 
