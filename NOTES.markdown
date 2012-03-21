@@ -43,7 +43,7 @@ end
 Parameters must be encapsulted in **(** **)** parenthesis and be seperated with a space to define each parameter.
 
 ```
-print("Hello")
-pow(0 1)
+print("Hello")        # > Hello
+print(pow(5 2))       # > 25
 ```
 
